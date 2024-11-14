@@ -11,7 +11,7 @@
     width: 200px;
 }
 
-/* BODY */
+/* PRIMO BLOCCO */
 
 h1 {
     color: black;
@@ -38,4 +38,34 @@ h1 {
 
 .second-block {
     line-height: 0%;
+}
+
+/* TERZO BLOCCO */
+
+.third-block {
+    background-color:cadetblue;
+}
+
+th {
+    color: white;
+}
+
+.first-line {
+    background-color: darkgrey;
+}
+
+#uno {
+    width: 25%;
+}
+
+#due {
+    width: 25%;
+}
+
+#tre {
+    width: 50%;
+}
+
+.size {
+    font-size: smaller;
 }
