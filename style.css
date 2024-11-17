@@ -54,15 +54,11 @@ th {
     background-color: darkgrey;
 }
 
-#uno {
-    width: 25%;
+.w-25 {
+    width: 25%
 }
 
-#due {
-    width: 25%;
-}
-
-#tre {
+.w-50 {
     width: 50%;
 }
 
